@@ -1,0 +1,36 @@
+{
+  "template": "https://github.com/humblFINANCE/cookiecutter-python",
+  "commit": "ad79f5f8d313d556a80b550a2101e3c7ae276cd0",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "orghi-memory",
+      "package_description": "testing memory properties of MemGPT for personal AI. mistral backend via perplexityAI",
+      "package_url": "https://github.com/jjfantini/orghi-memory",
+      "author_name": "Jennings Fantini",
+      "author_email": "jjman2811@gmail.com",
+      "github_username": "jjfantini",
+      "python_version": "3.12.1",
+      "docker_image": "python:3.12.1-slim",
+      "development_environment": "strict",
+      "with_conventional_commits": "1",
+      "with_micromamba": "0",
+      "with_fastapi_api": "1",
+      "with_streamlit_app": "1",
+      "with_typer_cli": "1",
+      "with_jupyter_lab": "1",
+      "with_pydantic_typing": "1",
+      "with_pandera_models": "0",
+      "with_sentry_logging": "1",
+      "continuous_integration": "GitHub",
+      "documentation_tool": "sphinx",
+      "docstring_style": "NumPy",
+      "private_package_repository_name": "",
+      "private_package_repository_url": "",
+      "__package_name_kebab_case": "orghi-memory",
+      "__package_name_snake_case": "orghi_memory",
+      "_template": "https://github.com/humblFINANCE/cookiecutter-python"
+    }
+  },
+  "directory": null
+}
