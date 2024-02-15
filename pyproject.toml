@@ -5,7 +5,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]  # https://python-poetry.org/docs/pyproject/
 name = "orghi-memory"
-version = "0.0.0"
+version = "0.0.0"So
 description = "testing memory properties of MemGPT for personal AI. mistral backend via perplexityAI"
 authors = ["Jennings Fantini <jjman2811@gmail.com>"]
 readme = "README.md"
